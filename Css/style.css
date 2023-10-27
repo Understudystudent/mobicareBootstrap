@@ -42,3 +42,11 @@ img[alt="gridLogo"]
     object-fit: cover;
     object-position: center;
 }
+
+footer{
+    height: 90px;
+    background-color: black;
+}
+
+.go-to-top-btn {
+    background-color: #c89b40;}
